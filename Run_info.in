@@ -39,7 +39,7 @@ MhtCut 50.0
 DiscrByHT false
 HtCut 30.0
 
-DiscrByGenHT false
+DiscrByGenHT true
 LowerGenHtCut 0.0
 UpperGenHtCut 100.0
 

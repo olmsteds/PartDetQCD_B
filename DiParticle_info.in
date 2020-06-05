@@ -9,7 +9,7 @@ DiscrByOSLSType  LS	#### OS or LS
 DiscrByCosDphi	 false
 CosDphiCut 	 -1.00   -0.80
 
-DiscrByMassReco  true
+DiscrByMassReco  false
 HowCalculateMassReco  VectorSumOfVisProductsAndMet       ###VectorSumOfVisProductsAndMet   or    CollinearApprox 
 MassCut          150.0   9999.9
 
